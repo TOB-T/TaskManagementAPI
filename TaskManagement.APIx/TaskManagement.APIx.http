@@ -1,0 +1,6 @@
+@TaskManagement.APIx_HostAddress = http://localhost:5120
+
+GET {{TaskManagement.APIx_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
